@@ -41,7 +41,7 @@ export const OpenGraphImage = ({ children }: Props) => {
         <BackgroundImage />
       </div>
       <div style={{ display: "flex" }}>
-        <Logo height={29} width={200} />
+        <Logo height={44} width={300} />
       </div>
       <div
         style={{
